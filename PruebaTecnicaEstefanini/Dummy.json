@@ -1,0 +1,102 @@
+[
+    {
+        "emisor": "Juan Perez",
+        "correoEmisor": "juanperez@gmail.com",
+        "asunto": "Tarea primer parcial",
+        "mensaje": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "hora": "10:am",
+        "leido": false,
+        "destacado": false,
+        "spam": true
+    },
+    {
+        "emisor": "Alicia Perez",
+        "correoEmisor": "juanperez@gmail.com",
+        "asunto": "Tarea primer parcial",
+        "mensaje": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "hora": "10:am",
+        "leido": true,
+        "destacado": false,
+        "spam": false
+    },
+    {
+        "emisor": "Roberto Perez",
+        "correoEmisor": "juanperez@gmail.com",
+        "asunto": "Tarea primer parcial",
+        "mensaje": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "hora": "10:am",
+        "leido": true,
+        "destacado": true,
+        "spam": false
+    },
+    {
+        "emisor": "Juan Perez",
+        "correoEmisor": "juanperez@gmail.com",
+        "asunto": "Tarea primer parcial",
+        "mensaje": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "hora": "10:am",
+        "leido": false,
+        "destacado": true,
+        "spam": false
+    },
+    {
+        "emisor": "Juan Perez",
+        "correoEmisor": "juanperez@gmail.com",
+        "asunto": "Tarea primer parcial",
+        "mensaje": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "hora": "10:am",
+        "leido": false,
+        "destacado": true,
+        "spam": true
+    },
+    {
+        "emisor": "Juan Perez",
+        "correoEmisor": "juanperez@gmail.com",
+        "asunto": "Tarea primer parcial",
+        "mensaje": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "hora": "10:am",
+        "leido": false,
+        "destacado": false,
+        "spam": true
+    },
+    {
+        "emisor": "Juan Perez",
+        "correoEmisor": "juanperez@gmail.com",
+        "asunto": "Tarea primer parcial",
+        "mensaje": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "hora": "10:am",
+        "leido": true,
+        "destacado": false,
+        "spam": false
+    },
+    {
+        "emisor": "Juan Perez",
+        "correoEmisor": "juanperez@gmail.com",
+        "asunto": "Tarea primer parcial",
+        "mensaje": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "hora": "10:am",
+        "leido": true,
+        "destacado": true,
+        "spam": false
+    },
+    {
+        "emisor": "Juan Perez",
+        "correoEmisor": "juanperez@gmail.com",
+        "asunto": "Tarea primer parcial",
+        "mensaje": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "hora": "10:am",
+        "leido": false,
+        "destacado": true,
+        "spam": false
+    },
+    {
+        "emisor": "Juan Perez",
+        "correoEmisor": "juanperez@gmail.com",
+        "asunto": "Tarea primer parcial",
+        "mensaje": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "hora": "10:am",
+        "leido": false,
+        "destacado": true,
+        "spam": true
+    }
+]
